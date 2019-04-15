@@ -1,0 +1,17 @@
+<div>
+  <label>
+    Enter Zip Code:
+    <input [(ngModel)]="zipFacts.zipcode" placeholder="zipcode" maxlength="5" pattern="[0-9]+" (keyup.enter)="getZipGeo()" />
+  </label>
+  <button (click)="getZipGeo()">Fetch</button>
+</div>
+<div *ngIf="errorMsg===''">
+  <h2>
+    "At the location {{zipFacts.city}}, the temperature is {{zipFacts.temperature}} degrees fahrenheit, the timezone is {{zipFacts.timeZoneName}}, and the elevation is {{zipFacts.elevation}} meters."
+  </h2>
+</div>
+<div ng-hide="errorMsg===''">
+  <h2>
+    {{errorMsg}}
+  </h2>
+</div>

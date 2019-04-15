@@ -1,0 +1,14 @@
+C:\Users\Sandeep\Documents\Visual Studio 2017\Projects\GeographicInfoService\GeographicInfoService\bin\Debug\netcoreapp2.1\GeographicInfoService.deps.json
+C:\Users\Sandeep\Documents\Visual Studio 2017\Projects\GeographicInfoService\GeographicInfoService\bin\Debug\netcoreapp2.1\GeographicInfoService.runtimeconfig.json
+C:\Users\Sandeep\Documents\Visual Studio 2017\Projects\GeographicInfoService\GeographicInfoService\bin\Debug\netcoreapp2.1\GeographicInfoService.runtimeconfig.dev.json
+C:\Users\Sandeep\Documents\Visual Studio 2017\Projects\GeographicInfoService\GeographicInfoService\bin\Debug\netcoreapp2.1\GeographicInfoService.dll
+C:\Users\Sandeep\Documents\Visual Studio 2017\Projects\GeographicInfoService\GeographicInfoService\bin\Debug\netcoreapp2.1\GeographicInfoService.pdb
+C:\Users\Sandeep\Documents\Visual Studio 2017\Projects\GeographicInfoService\GeographicInfoService\obj\Debug\netcoreapp2.1\GeographicInfoService.csprojAssemblyReference.cache
+C:\Users\Sandeep\Documents\Visual Studio 2017\Projects\GeographicInfoService\GeographicInfoService\obj\Debug\netcoreapp2.1\GeographicInfoService.csproj.CoreCompileInputs.cache
+C:\Users\Sandeep\Documents\Visual Studio 2017\Projects\GeographicInfoService\GeographicInfoService\obj\Debug\netcoreapp2.1\GeographicInfoService.RazorAssemblyInfo.cache
+C:\Users\Sandeep\Documents\Visual Studio 2017\Projects\GeographicInfoService\GeographicInfoService\obj\Debug\netcoreapp2.1\GeographicInfoService.RazorAssemblyInfo.cs
+C:\Users\Sandeep\Documents\Visual Studio 2017\Projects\GeographicInfoService\GeographicInfoService\obj\Debug\netcoreapp2.1\GeographicInfoService.AssemblyInfoInputs.cache
+C:\Users\Sandeep\Documents\Visual Studio 2017\Projects\GeographicInfoService\GeographicInfoService\obj\Debug\netcoreapp2.1\GeographicInfoService.AssemblyInfo.cs
+C:\Users\Sandeep\Documents\Visual Studio 2017\Projects\GeographicInfoService\GeographicInfoService\obj\Debug\netcoreapp2.1\GeographicInfoService.RazorTargetAssemblyInfo.cache
+C:\Users\Sandeep\Documents\Visual Studio 2017\Projects\GeographicInfoService\GeographicInfoService\obj\Debug\netcoreapp2.1\GeographicInfoService.dll
+C:\Users\Sandeep\Documents\Visual Studio 2017\Projects\GeographicInfoService\GeographicInfoService\obj\Debug\netcoreapp2.1\GeographicInfoService.pdb

@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeographicInfoEndpoint", "GeographicInfoService\GeographicInfoEndpoint.csproj", "{944F864F-6325-44FF-9B17-F652BE4C0F3E}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ZipGeo", "ZipGeo\", "{AA562E6A-484D-4060-A183-ABCE1987CE83}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61675"
+		Debug.AspNetCompiler.PhysicalPath = "ZipGeo\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61675\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61675"
+		Release.AspNetCompiler.PhysicalPath = "ZipGeo\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61675\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61675"
+		SlnRelativePath = "ZipGeo\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944F864F-6325-44FF-9B17-F652BE4C0F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944F864F-6325-44FF-9B17-F652BE4C0F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944F864F-6325-44FF-9B17-F652BE4C0F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944F864F-6325-44FF-9B17-F652BE4C0F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA562E6A-484D-4060-A183-ABCE1987CE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA562E6A-484D-4060-A183-ABCE1987CE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA562E6A-484D-4060-A183-ABCE1987CE83}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA562E6A-484D-4060-A183-ABCE1987CE83}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8283D84-0C18-4B8A-9966-73355A422669}
+	EndGlobalSection
+EndGlobal
