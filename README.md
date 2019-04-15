@@ -17,4 +17,15 @@
 # In the Angular project ZipGeo update the environment.ts file: zipgeoUrl with your .Net Web API project url
 #
 #
-
+# Software required to run:
+# .Net Core 2.1
+# Angular 7
+#
+# To start Angular enter the following command in the command prompt window
+# ng serve --open
+#
+# To start .Net Web API project change to GeographicInfoService\GeographicInfoService directory and run the following command in the
+# command prompt window :
+# dotnet run
+# Alternatively you can run the project in IIS Server or IIS Experess from Visual Studio 2017
+#
